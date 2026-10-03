@@ -1,21 +1,10 @@
-# Praktikum 1 Web - Dasar HTML
-
-## Identitas
-
-**Nama:** Tiara Az Zahra  
-**Program Studi:** Teknik Informatika  
-**Mata Kuliah:** Pemrograman Web  
-**Praktikum:** Praktikum 1 - Dasar HTML  
-
----
-
 # 1. Dasar HTML
 
 Pada praktikum pertama, saya mempelajari dasar-dasar HTML untuk membuat dan menyusun sebuah halaman web. HTML merupakan bahasa markup yang digunakan untuk membuat struktur halaman web. Beberapa tag HTML yang dipelajari yaitu `<html>`, `<head>`, `<title>`, dan `<body>`.
 
 ### Hasil Praktikum
 
-![Screenshot Dasar HTML](screenshots/01-dasar-html.jpg)
+![Screenshot Dasar HTML](01-dasar-html.jpg)
 
 ---
 
@@ -25,7 +14,7 @@ Pada langkah ini saya mempelajari cara membuat paragraf menggunakan tag `<p>`. S
 
 ### Hasil Praktikum
 
-![Screenshot Paragraf](screenshots/02-paragraf.jpg)
+![Screenshot Paragraf](02-paragraf.jpg)
 
 ---
 
@@ -35,7 +24,7 @@ Pada langkah ini saya mempelajari cara menambahkan gambar ke dalam halaman HTML.
 
 ### Hasil Praktikum
 
-![Screenshot Gambar](screenshots/03-gambar.jpg)
+![Screenshot Gambar](03-gambar.jpg)
 
 ---
 
@@ -45,7 +34,7 @@ Pada langkah ini saya mempelajari cara membuat link pada halaman HTML menggunaka
 
 ### Hasil Praktikum
 
-![Screenshot Link](screenshots/04-link.jpg)
+![Screenshot Link](04-link.jpg)
 
 ---
 
@@ -55,7 +44,7 @@ Pada langkah ini saya mempelajari cara membuat daftar keahlian menggunakan tag `
 
 ### Hasil Praktikum
 
-![Screenshot Keahlian](screenshots/05-keahlian.jpg)
+![Screenshot Keahlian](05-keahlian.jpg)
 
 ---
 
@@ -65,9 +54,7 @@ Pada langkah ini saya mempelajari cara membuat daftar target belajar menggunakan
 
 ### Hasil Praktikum
 
-### Hasil Praktikum
-
-![Screenshot Target Belajar](screenshots/06-target-belajar.jpg)
+![Screenshot Target Belajar](06-target-belajar.jpg)
 
 ---
 
@@ -77,12 +64,4 @@ Pada langkah ini saya menambahkan informasi diri ke dalam halaman HTML. Informas
 
 ### Hasil Praktikum
 
-### Hasil Praktikum
-
-![Screenshot Informasi Diri](screenshots/07-informasi-diri.jpg)
-
----
-
-## Kesimpulan
-
-Pada praktikum ini saya mempelajari dasar-dasar HTML mulai dari membuat struktur halaman, membuat paragraf, memformat teks, menambahkan gambar, membuat link, membuat daftar, hingga menambahkan informasi diri. Praktikum ini membantu saya memahami cara kerja HTML sebagai dasar dalam pembuatan halaman web.
+![Screenshot Informasi Diri](07-informasi-diri.jpg)
