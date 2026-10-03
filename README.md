@@ -15,7 +15,7 @@ Pada praktikum pertama, saya mempelajari dasar-dasar HTML untuk membuat dan meny
 
 ### Hasil Praktikum
 
-![Screenshot Dasar HTML](screenshots/dasar-html.png)
+![Screenshot Dasar HTML](screenshots/01-dasar-html.jpg)
 
 ---
 
@@ -25,7 +25,7 @@ Pada langkah ini saya mempelajari cara membuat paragraf menggunakan tag `<p>`. S
 
 ### Hasil Praktikum
 
-![Screenshot Paragraf](screenshots/paragraf.png)
+![Screenshot Paragraf](screenshots/02-paragraf.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ Pada langkah ini saya mempelajari cara menambahkan gambar ke dalam halaman HTML.
 
 ### Hasil Praktikum
 
-![Screenshot Gambar](screenshots/gambar.png)
+![Screenshot Gambar](screenshots/03-gambar.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ Pada langkah ini saya mempelajari cara membuat link pada halaman HTML menggunaka
 
 ### Hasil Praktikum
 
-![Screenshot Link](screenshots/link.png)
+![Screenshot Link](screenshots/04-link.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ Pada langkah ini saya mempelajari cara membuat daftar keahlian menggunakan tag `
 
 ### Hasil Praktikum
 
-![Screenshot Keahlian](screenshots/keahlian.png)
+![Screenshot Keahlian](screenshots/05-keahlian.jpg)
 
 ---
 
@@ -65,7 +65,9 @@ Pada langkah ini saya mempelajari cara membuat daftar target belajar menggunakan
 
 ### Hasil Praktikum
 
-![Screenshot Target Belajar](screenshots/target-belajar.png)
+### Hasil Praktikum
+
+![Screenshot Target Belajar](screenshots/06-target-belajar.jpg)
 
 ---
 
@@ -75,7 +77,9 @@ Pada langkah ini saya menambahkan informasi diri ke dalam halaman HTML. Informas
 
 ### Hasil Praktikum
 
-![Screenshot Informasi Diri](screenshots/informasi-diri.png)
+### Hasil Praktikum
+
+![Screenshot Informasi Diri](screenshots/07-informasi-diri.jpg)
 
 ---
 
