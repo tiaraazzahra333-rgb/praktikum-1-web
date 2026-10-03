@@ -52,42 +52,40 @@ Gambar yang digunakan disimpan di dalam folder `images`, kemudian dipanggil meng
 Contoh:
 
 ```html
-<img src="images/profil.jpeg" width="300">
 
 # 4. Membuat Link
 
-Pada langkah ini saya mempelajari cara membuat link atau tautan menggunakan tag `<a>`. Link digunakan untuk menghubungkan halaman utama dengan halaman lainnya atau menuju website tertentu. Pada praktikum ini saya membuat link menuju halaman `halaman2.html` dan link menuju website eksternal seperti Google. Dengan menggunakan link, pengguna dapat berpindah dari satu halaman ke halaman lainnya dengan lebih mudah.
+Pada praktikum ini saya mempelajari cara membuat link pada halaman HTML menggunakan tag `<a>`. Link digunakan untuk menghubungkan satu halaman dengan halaman lainnya maupun menghubungkan halaman dengan website lain. Pada praktikum ini saya membuat link menuju halaman kedua dan link menuju website eksternal seperti Google.
 
 ### Hasil Praktikum
 
 ![Screenshot Link](screenshots/link.png)
 
----
 
 # 5. Membuat Daftar Keahlian
 
-Pada langkah ini saya mempelajari cara membuat daftar keahlian menggunakan unordered list dengan tag `<ul>` dan `<li>`. Daftar tersebut digunakan untuk menampilkan beberapa keahlian yang dimiliki, yaitu HTML, CSS, dan JavaScript. Penggunaan unordered list membuat daftar ditampilkan menggunakan tanda bullet sehingga informasi menjadi lebih rapi dan mudah dibaca.
+Pada praktikum ini saya mempelajari cara membuat daftar keahlian menggunakan tag `<ul>` dan `<li>`. Daftar keahlian dibuat untuk menampilkan beberapa kemampuan yang sedang dipelajari, yaitu HTML, CSS, dan JavaScript. Dengan menggunakan unordered list, daftar akan ditampilkan dalam bentuk bullet.
 
 ### Hasil Praktikum
 
 ![Screenshot Keahlian](screenshots/keahlian.png)
 
----
 
 # 6. Membuat Target Belajar
 
-Pada langkah ini saya mempelajari cara membuat daftar target belajar menggunakan ordered list dengan tag `<ol>` dan `<li>`. Target belajar yang dibuat terdiri dari menguasai HTML, menguasai CSS, dan menguasai JavaScript. Karena menggunakan ordered list, daftar target belajar ditampilkan menggunakan nomor secara berurutan.
+Pada praktikum ini saya mempelajari cara membuat daftar target belajar menggunakan tag `<ol>` dan `<li>`. Target belajar dibuat secara berurutan menggunakan nomor. Target yang dibuat yaitu menguasai HTML, menguasai CSS, dan menguasai JavaScript.
 
 ### Hasil Praktikum
 
 ![Screenshot Target Belajar](screenshots/target-belajar.png)
 
----
 
-# 7. Informasi Diri
+# 7. Menambahkan Informasi Diri
 
-Pada langkah ini saya menambahkan informasi diri pada halaman web yang berisi nama, program studi, dan keterangan mengenai materi yang sedang dipelajari. Informasi tersebut ditampilkan menggunakan tag `<p>` sehingga setiap informasi berada pada paragraf yang berbeda dan halaman menjadi lebih terstruktur.
+Pada praktikum ini saya menambahkan informasi diri ke dalam halaman HTML. Informasi yang ditampilkan berupa nama, program studi, dan keterangan mengenai pembelajaran yang sedang dilakukan. Informasi tersebut dibuat menggunakan tag `<p>` agar setiap keterangan ditampilkan dalam bentuk paragraf.
 
 ### Hasil Praktikum
 
 ![Screenshot Informasi Diri](screenshots/informasi-diri.png)
+<img src="images/profil.jpeg" width="300">
+
