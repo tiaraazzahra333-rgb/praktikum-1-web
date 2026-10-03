@@ -11,19 +11,7 @@
 
 # 1. Dasar HTML
 
-Pada praktikum pertama, saya mempelajari dasar-dasar HTML untuk membuat dan menyusun sebuah halaman web.
-
-HTML merupakan bahasa markup yang digunakan untuk membuat struktur halaman web. Pada bagian ini digunakan beberapa tag HTML seperti:
-
-- `<p>` untuk membuat paragraf
-- `<b>` untuk membuat tulisan tebal
-- `<i>` untuk membuat tulisan miring
-- `<u>` untuk membuat tulisan bergaris bawah
-- `<mark>` untuk memberikan tanda/highlight
-- `<del>` untuk mencoret tulisan
-- `<ins>` untuk menambahkan garis bawah pada teks
-- `<sub>` untuk membuat tulisan menjadi subscript
-- `<sup>` untuk membuat tulisan menjadi superscript
+Pada praktikum pertama, saya mempelajari dasar-dasar HTML untuk membuat dan menyusun sebuah halaman web. HTML merupakan bahasa markup yang digunakan untuk membuat struktur halaman web. Beberapa tag HTML yang dipelajari yaitu `<html>`, `<head>`, `<title>`, dan `<body>`.
 
 ### Hasil Praktikum
 
@@ -33,25 +21,23 @@ HTML merupakan bahasa markup yang digunakan untuk membuat struktur halaman web. 
 
 # 2. Paragraf pada HTML
 
-Pada langkah ini saya mempelajari cara membuat beberapa paragraf menggunakan tag `<p>`.
-
-Setiap tag `<p>` digunakan untuk membuat satu paragraf baru sehingga teks menjadi lebih teratur dan mudah dibaca.
+Pada langkah ini saya mempelajari cara membuat paragraf menggunakan tag `<p>`. Selain membuat paragraf, saya juga mempelajari beberapa tag untuk memberikan format pada teks seperti `<b>` untuk teks tebal, `<i>` untuk teks miring, `<strong>` untuk teks penting, `<em>` untuk penekanan, `<mark>` untuk menandai teks, `<small>` untuk teks kecil, `<del>` untuk teks yang dihapus, dan `<u>` untuk teks bergaris bawah.
 
 ### Hasil Praktikum
 
-![Screenshot Paragraf HTML](screenshots/paragraf.png)
+![Screenshot Paragraf](screenshots/paragraf.png)
 
 ---
 
 # 3. Menambahkan Gambar
 
-Pada langkah ini saya mempelajari cara menambahkan gambar ke dalam halaman HTML menggunakan tag `<img>`.
+Pada langkah ini saya mempelajari cara menambahkan gambar ke dalam halaman HTML. Gambar yang digunakan disimpan di dalam folder `images`, kemudian dipanggil menggunakan tag `<img>`. Pada praktikum ini saya menggunakan gambar profil dengan menentukan ukuran gambar menggunakan atribut `width`.
 
-Gambar yang digunakan disimpan di dalam folder `images`, kemudian dipanggil menggunakan atribut `src`.
+### Hasil Praktikum
 
-Contoh:
+![Screenshot Gambar](screenshots/gambar.png)
 
-```html
+---
 
 # 4. Membuat Link
 
@@ -61,6 +47,7 @@ Pada langkah ini saya mempelajari cara membuat link pada halaman HTML menggunaka
 
 ![Screenshot Link](screenshots/link.png)
 
+---
 
 # 5. Membuat Daftar Keahlian
 
@@ -70,6 +57,7 @@ Pada langkah ini saya mempelajari cara membuat daftar keahlian menggunakan tag `
 
 ![Screenshot Keahlian](screenshots/keahlian.png)
 
+---
 
 # 6. Membuat Target Belajar
 
@@ -79,11 +67,18 @@ Pada langkah ini saya mempelajari cara membuat daftar target belajar menggunakan
 
 ![Screenshot Target Belajar](screenshots/target-belajar.png)
 
+---
 
 # 7. Menambahkan Informasi Diri
 
-Pada langkah ini saya menambahkan informasi diri ke dalam halaman HTML. Informasi yang ditampilkan berupa nama, program studi, dan keterangan mengenai pembelajaran yang sedang dilakukan.
+Pada langkah ini saya menambahkan informasi diri ke dalam halaman HTML. Informasi yang ditampilkan berupa nama, program studi, dan keterangan mengenai pembelajaran yang sedang dilakukan. Informasi tersebut dibuat menggunakan tag `<p>` agar setiap informasi ditampilkan dalam bentuk paragraf.
 
 ### Hasil Praktikum
 
 ![Screenshot Informasi Diri](screenshots/informasi-diri.png)
+
+---
+
+## Kesimpulan
+
+Pada praktikum ini saya mempelajari dasar-dasar HTML mulai dari membuat struktur halaman, membuat paragraf, memformat teks, menambahkan gambar, membuat link, membuat daftar, hingga menambahkan informasi diri. Praktikum ini membantu saya memahami cara kerja HTML sebagai dasar dalam pembuatan halaman web.
