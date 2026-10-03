@@ -55,7 +55,7 @@ Contoh:
 
 # 4. Membuat Link
 
-Pada praktikum ini saya mempelajari cara membuat link pada halaman HTML menggunakan tag `<a>`. Link digunakan untuk menghubungkan satu halaman dengan halaman lainnya maupun menghubungkan halaman dengan website lain. Pada praktikum ini saya membuat link menuju halaman kedua dan link menuju website eksternal seperti Google.
+Pada langkah ini saya mempelajari cara membuat link pada halaman HTML menggunakan tag `<a>`. Link digunakan untuk menghubungkan satu halaman dengan halaman lainnya atau menuju website lain. Pada praktikum ini saya membuat link menuju halaman kedua dan link menuju website eksternal seperti Google.
 
 ### Hasil Praktikum
 
@@ -64,7 +64,7 @@ Pada praktikum ini saya mempelajari cara membuat link pada halaman HTML mengguna
 
 # 5. Membuat Daftar Keahlian
 
-Pada praktikum ini saya mempelajari cara membuat daftar keahlian menggunakan tag `<ul>` dan `<li>`. Daftar keahlian dibuat untuk menampilkan beberapa kemampuan yang sedang dipelajari, yaitu HTML, CSS, dan JavaScript. Dengan menggunakan unordered list, daftar akan ditampilkan dalam bentuk bullet.
+Pada langkah ini saya mempelajari cara membuat daftar keahlian menggunakan tag `<ul>` dan `<li>`. Daftar keahlian yang dibuat yaitu HTML, CSS, dan JavaScript. Dengan menggunakan unordered list, daftar keahlian ditampilkan dalam bentuk bullet.
 
 ### Hasil Praktikum
 
@@ -73,7 +73,7 @@ Pada praktikum ini saya mempelajari cara membuat daftar keahlian menggunakan tag
 
 # 6. Membuat Target Belajar
 
-Pada praktikum ini saya mempelajari cara membuat daftar target belajar menggunakan tag `<ol>` dan `<li>`. Target belajar dibuat secara berurutan menggunakan nomor. Target yang dibuat yaitu menguasai HTML, menguasai CSS, dan menguasai JavaScript.
+Pada langkah ini saya mempelajari cara membuat daftar target belajar menggunakan tag `<ol>` dan `<li>`. Target belajar dibuat secara berurutan menggunakan nomor, yaitu menguasai HTML, menguasai CSS, dan menguasai JavaScript.
 
 ### Hasil Praktikum
 
@@ -82,10 +82,8 @@ Pada praktikum ini saya mempelajari cara membuat daftar target belajar menggunak
 
 # 7. Menambahkan Informasi Diri
 
-Pada praktikum ini saya menambahkan informasi diri ke dalam halaman HTML. Informasi yang ditampilkan berupa nama, program studi, dan keterangan mengenai pembelajaran yang sedang dilakukan. Informasi tersebut dibuat menggunakan tag `<p>` agar setiap keterangan ditampilkan dalam bentuk paragraf.
+Pada langkah ini saya menambahkan informasi diri ke dalam halaman HTML. Informasi yang ditampilkan berupa nama, program studi, dan keterangan mengenai pembelajaran yang sedang dilakukan.
 
 ### Hasil Praktikum
 
 ![Screenshot Informasi Diri](screenshots/informasi-diri.png)
-<img src="images/profil.jpeg" width="300">
-
